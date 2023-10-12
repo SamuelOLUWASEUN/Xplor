@@ -1,2 +1,2 @@
 # Xplora
- travelimg agency website landing page
+ traveling agency website landing page
